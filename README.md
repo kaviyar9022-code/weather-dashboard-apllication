@@ -1,4 +1,5 @@
-# 🌦️ Smart Weather & Travel Dashboard
+# 🌦️ weather dashboard application
+
 
 A responsive weather dashboard built with **only HTML5, CSS3 and Vanilla JavaScript**. Search any city to see real-time weather, a 5-day forecast and smart travel suggestions based on the conditions.
 
